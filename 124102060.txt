@@ -1,0 +1,6 @@
+how to login git hub
+To create new repository
+To fork author repository
+To clone repository
+To stage changes in repository
+To fetch and pull repository
